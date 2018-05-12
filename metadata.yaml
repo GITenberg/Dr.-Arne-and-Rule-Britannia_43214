@@ -1,0 +1,30 @@
+_repo: Dr.-Arne-and-Rule-Britannia_43214
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cummings, William Hayman
+    aliases:
+    - Cummings, Wm. H. (William Hayman)
+    - Cummings, W. H. (William Hayman)
+    - Cummings, William H.
+    birthdate: 1831
+    deathdate: 1915
+    gutenberg_agent_id: '42074'
+    url: http://www.gutenberg.org/2009/agents/42074
+description: ''
+gutenberg_issued: '2013-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Arne, Thomas Augustine, 1710-1778'
+title: Dr. Arne and Rule, Britannia
+url: http://www.gutenberg.org/ebooks/43214
